@@ -16,3 +16,6 @@ token.json
 
 *.xlsx
 *.log
+
+credentials/client_secret.json
+credentials/token.json
